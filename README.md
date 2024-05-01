@@ -1,5 +1,5 @@
 # Webhook Spammer
-Advanced Webhook Spammer
+## Advanced Webhook Spammer
 
 # Usage
 ## ❓ | Installation
