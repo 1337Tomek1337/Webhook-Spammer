@@ -1,6 +1,7 @@
 const { WebhookClient } = require('discord.js');
 const chalk = require('chalk');
 const readline = require('readline');
+const { url } = require('inspector');
 
 const rl = readline.createInterface({
     input: process.stdin,
@@ -24,7 +25,18 @@ log(centerText('._.tomus._.', terminal));
 space();
 
 rl.question(text(centerText('Enter Webhook URL >> ', terminal)), (webhook) => {
-    log(centerText('Soon will work...', terminal));
+    try {
+        const hook = new WebhookClient({
+            url: webhook,
+        });
+    } catch (err) {
+        space();
+        log(centerText('Invalid Webhook URL!', terminal));
+        process.exit();
+        return;
+    }
+
+    console.log('Works Perfect');
 });
 
 // some functions
@@ -43,5 +55,5 @@ function text(text) {
 }
 
 function space() {
-    console.log('\n');
+    console.log('');
 }
