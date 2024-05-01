@@ -1,6 +1,35 @@
-# Webhook-Spammer
-Advanced Discord's Webhook Spammer
+# Webhook Spammer
+Advanced Webhook Spammer
 
-README Soon...
+# Usage
+## ❓ | Installation
+Required: NodeJS
+1. Download repository
+2. Go to terminal
+3. Type `npm install discord.js chalk readline`
+4. Run `node index.js`
+5. Setup Spammer and spam servers!
 
-# Made for educational purposes only.
+# Information
+
+## 🔧 | Authors
+
+- [@1337Tomek1337](https://www.github.com/1337Tomek1337)
+
+## 🤔 | Features
+
+- Fast Webhook Spammer
+
+## 📜 | Todo
+- [ ] Support for more than one webhook at once
+- [ ] Add embed messages option
+
+## Support
+
+For support, join our [Discord](https://discord.gg/jehhXZATCe)
+
+
+# Other
+
+## ❗ | Disclaimer
+This tool was made for educational purposes only.
