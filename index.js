@@ -1,7 +1,6 @@
 const { WebhookClient } = require('discord.js');
 const chalk = require('chalk');
 const readline = require('readline');
-const { url } = require('inspector');
 
 const rl = readline.createInterface({
     input: process.stdin,
