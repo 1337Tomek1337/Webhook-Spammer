@@ -32,4 +32,4 @@ For support, join our [Discord](https://discord.gg/jehhXZATCe)
 # Other
 
 ## ❗ | Disclaimer
-This tool was made for educational purposes only.
+This tool was made for educational purposes only. We don't take responsibility for any blocked accounts.
