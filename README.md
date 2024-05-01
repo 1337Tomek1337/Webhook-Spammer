@@ -23,6 +23,7 @@ Required: NodeJS
 ## 📜 | Todo
 - [ ] Support for more than one webhook at once
 - [ ] Add embed messages option
+- [ ] Add some style
 
 ## Support
 
