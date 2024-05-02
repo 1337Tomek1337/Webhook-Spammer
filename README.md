@@ -12,6 +12,10 @@ Required: NodeJS
 
 # Information
 
+## 📸 | Preview
+
+https://github.com/1337Tomek1337/Webhook-Spammer/assets/127766155/84831315-55f1-4450-9068-065f0c43eb9b
+
 ## 🔧 | Authors
 
 - [@1337Tomek1337](https://www.github.com/1337Tomek1337)
