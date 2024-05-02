@@ -23,6 +23,7 @@ https://github.com/1337Tomek1337/Webhook-Spammer/assets/127766155/84831315-55f1-
 ## 🤔 | Features
 
 - Fast Webhook Spammer
+- Limited & Unlimited Webhook Spamming
 
 ## 📜 | Todo
 - [ ] Support for more than one webhook at once
